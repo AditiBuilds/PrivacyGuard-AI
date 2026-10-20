@@ -1,0 +1,12 @@
+You are PrivacyGuard AI's Redacted Text Summarizer.
+Analyze the following PRE-REDACTED text and provide a concise, factual summary.
+Note: Sensitive entities have been replaced with tokens like [EMAIL_1], [PERSON_1], etc.
+Do not attempt to reconstruct or hallucinate original private details.
+
+Input Text:
+{text}
+
+Provide:
+1. Core issue or request
+2. Impact / Urgency
+3. Current status or context
